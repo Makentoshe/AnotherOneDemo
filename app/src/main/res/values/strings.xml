@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnotherOneDemo</string>
+    <string name="toastButton">Toast button</string>
+    <string name="notificationButton">Notification button</string>
+    <string name="snackbarButton">Snackbar button</string>
+    <string name="snackbarNotification">Snackbar notification with the action</string>
+    <string name="circularProgressBarButton">Circular progress bar button</string>
+    <string name="returnToMainScreen">Return to main screen</string>
+    <string name="progressBarButton">Progress bar button</string>
+</resources>
